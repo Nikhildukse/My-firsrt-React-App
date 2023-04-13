@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/smeer/static/css/main.f8436591.css",
+    "main.js": "/smeer/static/js/main.d311b6b7.js",
+    "static/js/787.f055211e.chunk.js": "/smeer/static/js/787.f055211e.chunk.js",
+    "static/media/logo.svg": "/smeer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/smeer/index.html",
+    "main.f8436591.css.map": "/smeer/static/css/main.f8436591.css.map",
+    "main.d311b6b7.js.map": "/smeer/static/js/main.d311b6b7.js.map",
+    "787.f055211e.chunk.js.map": "/smeer/static/js/787.f055211e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8436591.css",
+    "static/js/main.d311b6b7.js"
+  ]
+}
